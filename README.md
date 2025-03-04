@@ -15,6 +15,18 @@ Here are some ideas to get you started:
 
 ### My Stats:
 
+<h1 align="center">Diva Anggreini Harahap</h1>
+
+<div align="center">
+  <a href="https://github.com/Quadrified/Quadrified">
+    <img width="360" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=divaaharahap&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Fathurraaa's stats" /> 
+  </a>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <a href="https://github.com/Quadrified/Quadrified">
+    <img width="300" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=divaaharahap&layout=compact&theme=tokyonight" alt="Fathurraaa's stats" />
+  </a>
+ </div>
+
 [![My GitHub statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=divaaharahap&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](#)
 
 [![My programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=divaaharahap&langs_count=100&layout=compact&layout=compact&theme=algolia)](#)
