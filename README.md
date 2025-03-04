@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 ### My Stats:
 ![My GitHub statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=divaaharahap&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&v=1)
 
-[![My programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=divaaharahap&langs_count=10&layout=compact&theme=algolia&v=2)](#)
+[![My programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=divaaharahap&langs_count=10&layout=compact&theme=algolia&hide=https://github.com/gylbertcs/Electrosphere-Inventory)](#)
+
 
 
 
