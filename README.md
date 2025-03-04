@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <td>
       <a href="#"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=divaaharahap&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /></a>
     </td>
-    <td> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    <td> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
       <a href="#"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=divaaharahap&langs_count=100&layout=compact&theme=algolia" /></a>
     </td>
   </tr>
