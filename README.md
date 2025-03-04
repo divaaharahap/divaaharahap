@@ -1,40 +1,41 @@
-### Hi there 👋
-
 <!--
 **divaaharahap/divaaharahap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning React js.
-- 📫 How to reach me:
--   🔗https://www.linkedin.com/in/diva-anggreini-harahap-a68629243/
--   🔗https://www.instagram.com/dddivva?igsh=NThxNWtlM2F2ZWVi
--   🔗https://www.goodreads.com/ddiivva
-- 😄 Pronouns: her
-- ⚡ Fun fact: Serena enthu and love Webtoon so muchhhh✨, im an avid reader of webtoons and love diving into different stories and art styles before bedtime.
 
+### Hey there! 👋  
+
+- 🌱 I’m currently learning **React.js**  
+- 📫 You can reach me on:  
+  <p align="left">
+    <a href="https://www.linkedin.com/in/diva-anggreini-harahap-a68629243/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>  
+    <a href="https://www.instagram.com/dddivva?igsh=NThxNWtlM2F2ZWVi" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>  
+    <a href="https://www.goodreads.com/ddiivva" target="_blank">
+      <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" alt="Goodreads">
+    </a>
+  </p>  
+- 😄 Pronouns: **She/Her**  
+- ⚡ Fun fact:  
+  > ✨ I'm a **Serena enthusiast** and a **huge Webtoon lover**! I can binge **hundreds of chapters** in a day, and I love exploring different stories & art styles before bedtime. 📖💫  
+
+  > 
 ### My Stats:
 
-<h1 align="center">Diva Anggreini Harahap</h1>
+  <tr>
+    <td>
+      <a href="#"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=divaaharahap&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /></a>
+    </td>
+    <td> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+      <a href="#"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=divaaharahap&langs_count=100&layout=compact&theme=algolia" /></a>
+    </td>
+  </tr>
 
-<div align="center">
-  <a href="https://github.com/Quadrified/Quadrified">
-    <img width="360" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=divaaharahap&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Fathurraaa's stats" /> 
-  </a>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <a href="https://github.com/Quadrified/Quadrified">
-    <img width="300" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=divaaharahap&layout=compact&theme=tokyonight" alt="Fathurraaa's stats" />
-  </a>
- </div>
 
-[![My GitHub statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=divaaharahap&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](#)
 
-[![My programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=divaaharahap&langs_count=100&layout=compact&layout=compact&theme=algolia)](#)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divaaharahap&langs_count=100)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=divaaharahap)](https://github.com/divaaharahap/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divaaharahap&exclude_repo=github-readme-stats,divaaharahap.github.io)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
