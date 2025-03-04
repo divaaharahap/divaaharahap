@@ -32,7 +32,6 @@ Here are some ideas to get you started:
     <br>
     <br>
     <br>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
    <a href="#"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=divaaharahap&langs_count=100&layout=compact&theme=algolia" /></a>
   </a>
  </div>
