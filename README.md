@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 [![My GitHub statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=divaaharahap&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](#)
 
-[![My programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=divaaharahap&langs_count=10&layout=compact&layout=compact&theme=algolia)](#)
+[![My programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=divaaharahap&langs_count=100&layout=compact&layout=compact&theme=algolia)](#)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divaaharahap&langs_count=100)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=divaaharahap)](https://github.com/divaaharahap/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divaaharahap&exclude_repo=github-readme-stats,divaaharahap.github.io)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
